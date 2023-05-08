@@ -1,0 +1,9 @@
+Pynative | https://pynative.com/python-glob/ | Glob syntax help
+Python's Counter: The Pythonic Way to Count Objects | https://realpython.com/python-counter/ | Read about how counter works
+Pandas documentation | https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html | to_csv seperator error fix based on documentation
+Ch03 Processing and Understanding Text | https://github.com/dipanjanS/text-analytics-with-python/blob/master/New-Second-Edition/Ch03%20-%20Processing%20and%20Understanding%20Text/Ch03a%20-%20Text%20Wrangling.ipynb | Clean up PDF functions
+Ch05 - Text Classification | https://github.com/dipanjanS/text-analytics-with-python/blob/master/New-Second-Edition/Ch05%20-%20Text%20Classification/text_normalizer.py | text-normalizer.py file and contraction.py file
+AgglomerativeClustering | https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html | help with parameters
+AgglomerativeClustering | https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering | more instructions
+Singular Value Decomposition (SVD)| https://www.analyticsvidhya.com/blog/2019/08/5-applications-singular-value-decomposition-svd-data-science/ | Help with structering my functions
+pickle documentation | https://docs.python.org/3/library/pickle.html | package the model

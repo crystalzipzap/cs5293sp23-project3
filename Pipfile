@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pypdf = "*"
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+spacy = "*"
+en_core_web_lg = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl"}
+nltk = "*"
+scipy = "*"
+bs4 = "*"
+pytest = "*"
+
+[dev-packages]
+pytest = "*"
+
+[requires]
+python_version = "3.10"
